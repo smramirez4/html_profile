@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+</head>
+
+<meta charset= "UTF-8">
+<title> INFORMATION ABOUT ME </title>
+<style>
+
+h2 {text-align: left-center; margin: 30px; padding: 30pxpx;}
+h3 {text-align: left-center; margin: 30px; padding: 20pxpx;}
+p  {text-align: left-aligned; max-width: 600px; margin: 20px;}
+
+body {
+  background-image: url('tru.jpg');
+}
+
+</style>
+</head>
+
+<body>
+
+<left>
+<p style="font-size:100px;">Welcome!</p>
+<h2> Samantha Mae P Ramirez <br>19 years of age, Gemini </br> </h2>
+<h3><p style="font-size:25px;">Description about Myself</p></h3>
+
+
+<p style="font-size:25px;"><i>This is the website i made! The contents here are about myself. I lived at Zabarte Extension Quezon City. I have three siblings, i'm the eldest. I am currently studying Bachelor of Science information technology with Specialization of Mobile and Intenet at National University Fairview. I love baking when i am bored but mostly i read a book to pass time. </p></i>
+
+</body>
+</center>
+</!DOCTYPE html>
